@@ -1,0 +1,13 @@
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\bin\Debug\netcoreapp3.0\Consumer.exe
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\obj\Debug\netcoreapp3.0\Consumer.csprojAssemblyReference.cache
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfoInputs.cache
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\obj\Debug\netcoreapp3.0\Consumer.AssemblyInfo.cs
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\bin\Debug\netcoreapp3.0\Consumer.deps.json
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.json
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\bin\Debug\netcoreapp3.0\Consumer.runtimeconfig.dev.json
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\bin\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\bin\Debug\netcoreapp3.0\Consumer.pdb
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\obj\Debug\netcoreapp3.0\Consumer.csproj.CopyComplete
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\obj\Debug\netcoreapp3.0\Consumer.dll
+C:\Users\cyber\source\repos\RabbitMqBasic\Consumer\obj\Debug\netcoreapp3.0\Consumer.pdb
