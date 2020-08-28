@@ -1,34 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAmeyaw\\source\\repos\\Michael Repo\\RabbitMqBasic\\Consumer\\Consumer.csproj": {}
+    "C:\\Users\\cyber\\source\\repos\\basic-rabbit\\basic-rabbit-mq-microservice-dotnet\\Consumer\\Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAmeyaw\\source\\repos\\Michael Repo\\RabbitMqBasic\\Consumer\\Consumer.csproj": {
+    "C:\\Users\\cyber\\source\\repos\\basic-rabbit\\basic-rabbit-mq-microservice-dotnet\\Consumer\\Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAmeyaw\\source\\repos\\Michael Repo\\RabbitMqBasic\\Consumer\\Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\cyber\\source\\repos\\basic-rabbit\\basic-rabbit-mq-microservice-dotnet\\Consumer\\Consumer.csproj",
         "projectName": "Consumer",
-        "projectPath": "C:\\Users\\MAmeyaw\\source\\repos\\Michael Repo\\RabbitMqBasic\\Consumer\\Consumer.csproj",
-        "packagesPath": "C:\\Users\\MAmeyaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAmeyaw\\source\\repos\\Michael Repo\\RabbitMqBasic\\Consumer\\obj\\",
+        "projectPath": "C:\\Users\\cyber\\source\\repos\\basic-rabbit\\basic-rabbit-mq-microservice-dotnet\\Consumer\\Consumer.csproj",
+        "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cyber\\source\\repos\\basic-rabbit\\basic-rabbit-mq-microservice-dotnet\\Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MAmeyaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cyber\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,7 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "dependencies": {
             "RabbitMQ.Client": {
               "target": "Package",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

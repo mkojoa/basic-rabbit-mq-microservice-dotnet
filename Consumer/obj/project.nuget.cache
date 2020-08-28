@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d777PmFrAMafTP19+fcbXmpPJThkRL9UNOg7oRETqfcme3oUN3JiDtEZgBZu6Fcu96nqq3f9STJXjF9LDzpsKA==",
+  "dgSpecHash": "uOLEEnNYpUiT+j9LJVgOLkcrut2fg0gSOhmJpjk0kDCgBDn/TGFFw8qQH2466vYw+vdiSu8h17uSbRSspFmqUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MAmeyaw\\source\\repos\\Michael Repo\\RabbitMqBasic\\Consumer\\Consumer.csproj",
+  "projectFilePath": "C:\\Users\\cyber\\source\\repos\\basic-rabbit\\basic-rabbit-mq-microservice-dotnet\\Consumer\\Consumer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MAmeyaw\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+    "C:\\Users\\cyber\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
   ],
   "logs": []
 }
